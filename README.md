@@ -36,6 +36,15 @@ Bu projemde **Weintek HMI** üzerindeki seri port kullanımı,
 
 ---
 
+### 🧩 Kullanılan Ürünler
+
+| Ürün Adı | Model | Açıklama |
+|-----------|--------|----------|
+| **HMI Panel** | Weintek cMT3162X | Seri port haberleşmesi ve makro kontrolü için kullanıldı |
+| **Lidar Sensör** | Coron GDS-F31 | Mesafe ölçüm ve alan algılama sensörü |
+| **Bağlantı Kablosu** | Serial Port Connector | Lidar ile HMI arasındaki RS232 haberleşme bağlantısı |
+
+---
 ### 🔗 Etiketler
 `Weintek` `Lidar` `Serial Port` `Macro` `Automation` `Coron`
 
